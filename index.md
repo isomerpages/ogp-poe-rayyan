@@ -4,10 +4,10 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Welcome to my Isomer site!
 sections:
   - hero:
-      title: HELLO!
+      title: Rayyan Safari
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
