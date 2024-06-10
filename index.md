@@ -10,8 +10,8 @@ sections:
       title: Rayyan Safari
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: my Linkedin
+      url: https://www.linkedin.com/in/rayyan-safari/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
