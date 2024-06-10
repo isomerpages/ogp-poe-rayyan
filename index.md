@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to my Isomer site!
+notification: Welcome to my Isomer site, hope you enjoy your time here! :)
 sections:
   - hero:
       title: Rayyan Safari
