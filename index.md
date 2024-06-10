@@ -8,8 +8,8 @@ notification: Welcome to my Isomer site, hope you enjoy your time here! :)
 sections:
   - hero:
       title: Rayyan Safari
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      subtitle: This is my cool Isomer website, check it out!
+      background: /images/ScreenRecording2024_05_0h3at11_27_26PM_ezgif_com_optimize.gif
       button: my Linkedin
       url: https://www.linkedin.com/in/rayyan-safari/
       key_highlights:
@@ -28,4 +28,32 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - announcements:
+      title: Amazing foods!
+      id: announcements
+      subtitle: "Cool announcements "
+      announcement_items:
+        - title: Best burgers
+          date: 10 June 2024
+          announcement: KFC IS NICe
+          link_text: ""
+          link_url: ""
+  - textcards:
+      title: Food recommendations
+      subtitle: Must try!
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
