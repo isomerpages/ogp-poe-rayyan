@@ -23,15 +23,15 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Hello there
+      description: There are many things I would like to share on my site, do feel
+        free to explore
+      button: Explore?
       url: /faq/
   - announcements:
       title: Amazing foods!
       id: announcements
-      subtitle: "Cool announcements "
+      subtitle: Cool announcements
       announcement_items:
         - title: Best burgers
           date: 10 June 2024
