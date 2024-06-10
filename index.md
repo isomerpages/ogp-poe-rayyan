@@ -13,15 +13,15 @@ sections:
       button: my Linkedin
       url: https://www.linkedin.com/in/rayyan-safari/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Page A
-          description: Page A is important too
+          description: Page A IS VERY IMPORTANT!
           url: /privacy/
+        - title: Highlight A
+          description: Important highlight A is important
+          url: https://google.com
   - infobar:
       title: Hello there
       description: There are many things I would like to share on my site, do feel
