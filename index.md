@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Rayyan Isomer Site
+description: An Isomer site of the Singapore Government, created as an
+  assignment by Rayyan Safari.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome to my Isomer site, I  hope you enjoy your time here! :)
