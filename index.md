@@ -11,7 +11,8 @@ sections:
       title: Rayyan Safari
       subtitle: This is my cool Isomer website, I had a lot of fun making this check
         it out!
-      background: /images/ScreenRecording2024_05_0h3at11_27_26PM_ezgif_com_optimize.gif
+      background: /images/Homepage
+        images/ScreenRecording2024_05_0h3at11_27_26PM_ezgif_com_optimize.gif
       button: my Linkedin
       url: https://www.linkedin.com/in/rayyan-safari/
       key_highlights:
