@@ -1,8 +1,8 @@
 logo: /images/Isomer images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Awesome Speeches
     collection: great-speeches
   - title: What it means
     url: /whatitmeans/
+  - title: Contact Us
+    url: /contact-us/
