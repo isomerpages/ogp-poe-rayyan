@@ -9,7 +9,7 @@ notification: Welcome to my Isomer site, I  hope you enjoy your time here! :)
 sections:
   - hero:
       title: Rayyan Safari
-      subtitle: This is my cool Isomer website, I had a lot of fun making this check
+      subtitle: This is my cool Isomer website, I had a lot of fun making this, check
         it out!
       background: /images/Homepage
         images/ScreenRecording2024_05_0h3at11_27_26PM_ezgif_com_optimize.gif
