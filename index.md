@@ -4,11 +4,12 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to my Isomer site, hope you enjoy your time here! :)
+notification: Welcome to my Isomer site, I  hope you enjoy your time here! :)
 sections:
   - hero:
       title: Rayyan Safari
-      subtitle: This is my cool Isomer website, check it out!
+      subtitle: This is my cool Isomer website, I had a lot of fun making this check
+        it out!
       background: /images/ScreenRecording2024_05_0h3at11_27_26PM_ezgif_com_optimize.gif
       button: my Linkedin
       url: https://www.linkedin.com/in/rayyan-safari/
