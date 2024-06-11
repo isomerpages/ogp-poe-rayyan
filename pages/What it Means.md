@@ -7,7 +7,7 @@ description: ""
 <h4>Here are some things that I find cool and interesting.</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="a man with an egg" src="/images/Cool things/Screenshot_2024_06_11_at_11_44_20_AM.png">
+<img style="width: 60%;" height="auto" width="100%" alt="a man with an egg" src="/images/Cool things/Screenshot_2024_06_11_at_11_44_20_AM.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
