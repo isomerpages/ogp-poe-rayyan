@@ -1,5 +1,5 @@
 collections:
-  great-speeches:
+  speeches:
     output: true
     order:
       - Speeches by Prime Minister Lawrence Wong.md
