@@ -2,19 +2,19 @@ title: Rayyan Isomer Site
 url: https://opgpoerayyan.gov
 favicon: /images/Isomer images/favicon-isomer.ico
 colors:
-  primary-color: "#b01313"
-  secondary-color: "#4372d6"
+  primary-color: "#3587a4"
+  secondary-color: "#88ccf1"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#2d848a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#c1dff0"
     - title: media-color-three
-      color: "#00838f"
+      color: "#2d898b"
     - title: media-color-four
-      color: "#00838f"
+      color: "#2d898b"
     - title: media-color-five
-      color: "#00838f"
+      color: "#2d898b"
 description: An Isomer site of the Singapore Government, created as an
   assignment by Rayyan Safari.
 permalink: none
