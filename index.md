@@ -26,10 +26,11 @@ sections:
           url: /contact-us/
   - infopic:
       title: Hello There.
-      subtitle: Welcome!
+      subtitle: Welcome
       id: infopic
-      description: Check out some interesting things I've shared on this site!
-      button: wow
+      description: Thank you for visiting my site! I'll be sharing some interesting
+        food places as well as other things I find unique.
+      button: explore
       alt: Image alt text
       image: /images/Homepage images/background3.png
       url: /homepage
