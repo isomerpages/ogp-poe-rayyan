@@ -80,10 +80,10 @@ sections:
         - title: A Fun Day with Satay
           date: 08 June 2024
           announcement: What is the perfect Satay? The meat should be marinated well, not
-            too chewy and accompanied by a peanut sauce that leaves your arms
+            too chewy and accompanied with a peanut sauce that leaves your arms
             tired from that constant dipping. Where is the best satay? I don't
-            think you'll ever get the same answer, but I like the one at East
-            Coast Lagoon!
+            think you'll ever get one answer, but I like the one at East Coast
+            Lagoon!
           link_text: ""
           link_url: ""
 ---
