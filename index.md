@@ -38,7 +38,7 @@ sections:
       title: Food Recommendations
       subtitle: Must try!
       id: textcards
-      description: Some amazing local foods and desserts that are a must try.
+      description: Some amazing local foods and desserts that are a must try!
       cards:
         - title: Changi Village Cendol
           description: Card description
@@ -55,7 +55,7 @@ sections:
   - announcements:
       title: Amazing foods!
       id: announcements
-      subtitle: Cool announcements
+      subtitle: What i've eaten recently
       announcement_items:
         - title: Best burgers
           date: 08 June 2024
