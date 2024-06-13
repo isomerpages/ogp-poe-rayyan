@@ -28,7 +28,8 @@ Lawrence Wong's past present and future.</p>
 <p>Lastly, for the cool things I've shared, I thought it was fun to make
 use of the table to showcase different websites I thought were interesting,
 and added a couple more pictures of some personal things I liked as well,
-to give it a personal touch.</p>
+to give it a personal touch. I added a .gif file just to see if it works
+on the site.</p>
 <h4><strong>3. Your thoughts on the assignment?</strong></h4>
 <p>Overall it was a really fun assignment! I enjoyed my time building this
 site and experimenting with all the different features IsomerCMS has. I
