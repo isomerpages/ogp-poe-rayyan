@@ -9,7 +9,8 @@ variant: tiptap
 scheme that blends well. I then tested the contrast of the primary and
 secondary colours to ensure that it fulfils the minimum colour contrast
 of 4.5 for accessibility. I made a simple logo from the colour scheme to
-have some consistency with the site.</p>
+have some consistency with the site, and other resources were from <a href="http://pexel.com" rel="noopener noreferrer nofollow" target="_blank">pexel.com</a> or
+my own.</p>
 <p>Other than that, I just played around with the features and see what worked
 on a page. I also added more content on some pages as I felt they looked
 a bit bare and I wanted to mimic an actual site.</p>
