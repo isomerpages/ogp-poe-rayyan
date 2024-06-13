@@ -2,11 +2,11 @@ title: Rayyan Isomer Site
 url: https://opgpoerayyan.gov
 favicon: /images/Isomer images/favicon_rayyan.png
 colors:
-  primary-color: "#4e5149"
-  secondary-color: "#4eb9f2"
+  primary-color: "#3c3e33"
+  secondary-color: "#119de8"
   media-colors:
     - title: media-color-one
-      color: "#2d848a"
+      color: "#11b1be"
     - title: media-color-two
       color: "#c1dff0"
     - title: media-color-three
