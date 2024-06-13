@@ -79,7 +79,9 @@ sections:
           link_url: ""
         - title: A Fun Day with Satay
           date: 08 June 2024
-          announcement: A burger so juicy.
+          announcement: What is the perfect Satay? The meat should be marinated well, not
+            too chewy and accompanied by a peanut sauce that leaves your arms
+            tired from that constant dipping.
           link_text: ""
           link_url: ""
 ---
