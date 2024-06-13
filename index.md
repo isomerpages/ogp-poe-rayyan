@@ -58,8 +58,18 @@ sections:
       subtitle: Cool announcements
       announcement_items:
         - title: Best burgers
-          date: 10 June 2024
+          date: 08 June 2024
           announcement: KFC IS NICe
+          link_text: ""
+          link_url: ""
+        - title: Soup for the soul
+          date: 10 June 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
+        - title: Home cooked meal
+          date: 13 June 2024
+          announcement: Announcement content
           link_text: ""
           link_url: ""
 ---
