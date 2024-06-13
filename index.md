@@ -29,9 +29,9 @@ sections:
       subtitle: Welcome
       id: infopic
       description: Thank you for visiting my site! I'll be sharing some interesting
-        food places as well as other things I find unique.
+        food places as well as other things I find unique in Singapore.
       button: explore
-      alt: Image alt text
+      alt: ice cream
       image: /images/Homepage images/mewith2icecream.png
       url: /homepage
   - textcards:
