@@ -67,7 +67,9 @@ sections:
           link_url: ""
         - title: Broth for the soul
           date: 10 June 2024
-          announcement: Announcement content
+          announcement: Honestly, one of the best prawn mee I've had in a long time.
+            Deanna's Kitchen, located in Kembangan area has one of the most
+            delicious prawn mee's I've ever experienced.
           link_text: ""
           link_url: ""
         - title: Home cooked meal
