@@ -7,7 +7,7 @@ description: ""
 <h3><strong>Unique Things To Share</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJxeDdpbmZ3ZWg1M2YxMTZzamh0bWFobnJzMmRjc2N3MHlzeXducCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.gif">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJxeDdpbmZ3ZWg1M2YxMTZzamh0bWFobnJzMmRjc2N3MHlzeXducCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.gif">
 </div>
 <p></p>
 <h4><strong>Here's a list of interesting websites</strong></h4>
