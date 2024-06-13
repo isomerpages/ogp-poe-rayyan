@@ -72,16 +72,19 @@ sections:
           link_url: ""
         - title: Broth for the Soul
           date: 10 June 2024
-          announcement: Honestly, one of the best prawn mee I've had in a long time.
-            Deanna's Kitchen, located in Kembangan area has one of the most
-            delicious prawn mee's I've ever experienced.
+          announcement: Hands down, the best Prawn Mee I've ever eaten. Located at
+            Kembangan and Jurong, Deanna's Kitchen is home to the best Prawn Mee
+            served fresh daily. The best thing about the dish is the soup that
+            is just pure prawn broth boiled for 24hrs.
           link_text: ""
           link_url: ""
         - title: A Fun Day with Satay
           date: 08 June 2024
           announcement: What is the perfect Satay? The meat should be marinated well, not
             too chewy and accompanied by a peanut sauce that leaves your arms
-            tired from that constant dipping.
+            tired from that constant dipping. Where does one experience such a
+            satay? I don't think you'll ever get the same answer, but I like the
+            one at East Coast!
           link_text: ""
           link_url: ""
 ---
