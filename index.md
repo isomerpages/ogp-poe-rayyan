@@ -15,15 +15,15 @@ sections:
       button: Check out my linkedin
       url: https://www.linkedin.com/in/rayyan-safari/
       key_highlights:
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Portfolio
+          description: Check out my work!
+          url: https://rayyansafari.framer.website
         - title: Page A
           description: Page A IS VERY IMPORTANT!
           url: /privacy/
         - title: contact me
           description: Feel free to reach out
-          url: /contactus
+          url: /contact-us/
   - infobar:
       title: Hello there
       description: There are many things I would like to share on my site, do feel
