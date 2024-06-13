@@ -21,9 +21,11 @@ sections:
         - title: Cool stuff
           description: Some things I find cool
           url: /whatitmeans/
-        - title: contact me
+        - title: Contact me
           description: Feel free to reach out
           url: /contact-us/
+      variant: floating
+      backgroundColor: gray
   - infopic:
       title: Hello There
       subtitle: Welcome!
