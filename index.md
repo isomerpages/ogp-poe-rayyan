@@ -22,14 +22,15 @@ sections:
           description: Some things I find cool!
           url: /whatitmeans/
         - title: contact me
-          description: Feel free to reach out
+          description: Feel free to reach out!
           url: /contact-us/
-  - infobar:
-      title: Hello there
-      description: There are many things I would like to share on my site, do feel
-        free to explore
-      button: Explore?
-      url: /faq/
+  - infopic:
+      title: Hello There
+      subtitle: Welcome!
+      id: infopic
+      description: Check out some interesting things I've shared on this site!
+      button: Button Text
+      alt: Image alt text
   - textcards:
       title: Food recommendations
       subtitle: Must try!
