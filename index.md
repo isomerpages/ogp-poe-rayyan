@@ -30,16 +30,6 @@ sections:
         free to explore
       button: Explore?
       url: /faq/
-  - announcements:
-      title: Amazing foods!
-      id: announcements
-      subtitle: Cool announcements
-      announcement_items:
-        - title: Best burgers
-          date: 10 June 2024
-          announcement: KFC IS NICe
-          link_text: ""
-          link_url: ""
   - textcards:
       title: Food recommendations
       subtitle: Must try!
@@ -58,4 +48,14 @@ sections:
           description: Card description
           linktext: Learn more
           url: ""
+  - announcements:
+      title: Amazing foods!
+      id: announcements
+      subtitle: Cool announcements
+      announcement_items:
+        - title: Best burgers
+          date: 10 June 2024
+          announcement: KFC IS NICe
+          link_text: ""
+          link_url: ""
 ---
