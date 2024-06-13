@@ -26,5 +26,5 @@ variant: markdown
 8.  Please contact rayyansafari@gmail.com if you:
 
     (a) have any enquires or feedback on our data protection policies and procedures,
-		
+
     (b) need more information on or access to data which you have provided to us in the past.
