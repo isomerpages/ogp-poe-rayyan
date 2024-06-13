@@ -36,7 +36,7 @@ sections:
       url: /homepage
   - textcards:
       title: Personal Recommendations
-      subtitle: Must try!
+      subtitle: A must try!
       id: textcards
       description: Some recommendations for amazing places to eat, drink and spend time at.
       cards:
@@ -50,10 +50,11 @@ sections:
             beansprouts.
           linktext: Location
           url: https://maps.app.goo.gl/vC7fp3qpFqGaZe9CA
-        - title: Card
-          description: Card description
+        - title: Jurong Point Mall
+          description: From Japan to Hong Kong, spend hours and explore what this mall has
+            to offer!
           linktext: Location
-          url: ""
+          url: https://maps.app.goo.gl/vMiMt41sVn43a2ef8
   - announcements:
       title: Amazing foods!
       id: announcements
