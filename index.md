@@ -19,8 +19,8 @@ sections:
           description: Check out my work!
           url: https://rayyansafari.framer.website
         - title: Cool stuff
-          description: Page A IS VERY IMPORTANT!
-          url: /privacy/
+          description: Some things I find cool!
+          url: /whatitmeans/
         - title: contact me
           description: Feel free to reach out
           url: /contact-us/
