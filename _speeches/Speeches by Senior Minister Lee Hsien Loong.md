@@ -24,7 +24,7 @@ and welcomed his new successor, Mr Lawrence Wong.</p>
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1nWK-F36fBs?si=I_3gdgSi6pAChqmP"></iframe>
 </div>
 <blockquote>
-<p><em>"The lives of individual Singaporeans, what does it mean, how does it hurt, and where can we help."</em>
+<p><em>"The lives of individual Singaporeans, what does it mean, how does it hurt, and where can we help?"</em>
 </p>
 </blockquote>
 <p>Travel back to 2004 and witness a younger Singapore as then Prime Minister
