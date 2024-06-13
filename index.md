@@ -32,7 +32,7 @@ sections:
         food places as well as other things I find unique in Singapore.
       button: explore
       alt: ice cream
-      image: /images/Homepage images/mewith2icecream.png
+      image: /images/Homepage images/IMG_7128.jpg
       url: /homepage
   - textcards:
       title: Personal Recommendations
@@ -60,21 +60,21 @@ sections:
       id: announcements
       subtitle: What i've eaten recently
       announcement_items:
-        - title: Best burgers
-          date: 08 June 2024
-          announcement: KFC IS NICe
+        - title: Home's Where the Heart is
+          date: 13 June 2024
+          announcement: Announcement content
           link_text: ""
           link_url: ""
-        - title: Broth for the soul
+        - title: Broth for the Soul
           date: 10 June 2024
           announcement: Honestly, one of the best prawn mee I've had in a long time.
             Deanna's Kitchen, located in Kembangan area has one of the most
             delicious prawn mee's I've ever experienced.
           link_text: ""
           link_url: ""
-        - title: Home cooked meal
-          date: 13 June 2024
-          announcement: Announcement content
+        - title: A Fun Day with Satay
+          date: 08 June 2024
+          announcement: A burger so juicy.
           link_text: ""
           link_url: ""
 ---
