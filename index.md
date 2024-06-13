@@ -24,7 +24,7 @@ sections:
         - title: Contact me
           description: Feel free to reach out
           url: /contact-us/
-      variant: floating
+      variant: center
       backgroundColor: gray
   - infopic:
       title: Hello There
