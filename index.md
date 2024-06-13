@@ -29,8 +29,10 @@ sections:
       subtitle: Welcome!
       id: infopic
       description: Check out some interesting things I've shared on this site!
-      button: Button Text
+      button: wow
       alt: Image alt text
+      image: /images/Homepage images/background3.png
+      url: /homepage
   - textcards:
       title: Food recommendations
       subtitle: Must try!
