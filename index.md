@@ -3,7 +3,7 @@ layout: homepage
 title: Rayyan Isomer Site
 description: An Isomer site of the Singapore Government, created for an
   assignment by Rayyan Safari.
-image: /images/isomer-logo.svg
+image: /images/Isomer images/rayyan_logo.svg
 permalink: /
 notification: Welcome to my Isomer site, I  hope you enjoy your time here! :)
 sections:
