@@ -25,7 +25,7 @@ sections:
           description: Feel free to reach out!
           url: /contact-us/
   - infopic:
-      title: Hello There
+      title: Hello There.
       subtitle: Welcome!
       id: infopic
       description: Check out some interesting things I've shared on this site!
@@ -34,10 +34,10 @@ sections:
       image: /images/Homepage images/background3.png
       url: /homepage
   - textcards:
-      title: Food recommendations
+      title: Food Recommendations
       subtitle: Must try!
       id: textcards
-      description: Text card description
+      description: Some amazing local foods and desserts that are a must try.
       cards:
         - title: Card
           description: Card description
