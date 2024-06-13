@@ -32,7 +32,7 @@ sections:
         food places as well as other things I find unique in Singapore.
       button: explore
       alt: ice cream
-      image: /images/Homepage images/IMG_7128.jpg
+      image: /images/Homepage images/Screenshot_2024_06_13_at_5_13_29_PM.png
       url: /homepage
   - textcards:
       title: Personal Recommendations
@@ -62,7 +62,11 @@ sections:
       announcement_items:
         - title: Home's Where the Heart is
           date: 13 June 2024
-          announcement: Announcement content
+          announcement: Inspired by countless cooking videos online, I decided to try
+            cooking one of the hardest meals all chefs fear, the humble
+            omelette. The heat, the technique, it was all too much for me.
+            Though not what I set out to achieve, I settled for scrambled eggs
+            instead. 8/10 for effort, 5/10 for taste.
           link_text: ""
           link_url: ""
         - title: Broth for the Soul
