@@ -7,6 +7,11 @@ variant: tiptap
 <h4><strong>1. What are the design choices and thought processes you have made with the site?</strong></h4>
 <p>I used a website called <a href="http://coolor.co" rel="noopener noreferrer nofollow" target="_blank">coolor.co</a> to find inspiration for a nice colour
 scheme that blends well.</p>
+<p></p>
+<p>For the remaining pages that were filled with Lorem Ispsums, I decided
+to copy what I found from Govtech Singapore website as it was built by
+isomer as well and had specific terms that would mock how the page would
+actually look like if it was filled with content.</p>
 <h4><strong>2. Why were these content shared chosen for this?</strong></h4>
 <p>The content shared was through personal experiences and actual places
 I've been to. It was actually quite challenging to come up with places
