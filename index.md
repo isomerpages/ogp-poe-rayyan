@@ -41,7 +41,7 @@ sections:
       description: Some recommendations for amazing places to eat, drink and spend time at.
       cards:
         - title: Changi Village's Cendol
-          description: Beat the heat with a treat made with shaved ice, pandan jelly and
+          description: Beat the heat with a treat made from shaved ice, pandan jelly and
             gula melaka.
           linktext: Location
           url: https://maps.app.goo.gl/2WKK4oBo2DrGd3Gj8
@@ -52,7 +52,7 @@ sections:
           url: https://maps.app.goo.gl/vC7fp3qpFqGaZe9CA
         - title: Jurong Point Mall
           description: From Japan to Hong Kong, spend hours and explore what this mall has
-            to offer!
+            to offer.
           linktext: Location
           url: https://maps.app.goo.gl/vMiMt41sVn43a2ef8
   - announcements:
