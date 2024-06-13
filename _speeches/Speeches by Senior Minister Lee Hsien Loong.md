@@ -4,7 +4,7 @@ permalink: /smlee/
 variant: tiptap
 description: ""
 ---
-<h3><strong>SM Lee Hsien Loong's Final Speech</strong></h3>
+<h3><strong>Senior Minister Lee Hsien Loong's Final Speech</strong></h3>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wSWBC4qCfjo?si=Txb1_LC92xjXI5qm"></iframe>
 </div>
@@ -15,7 +15,7 @@ description: ""
 <p></p>
 <p>After 20 years of serving the nation as Singapore's Prime Minister, Senior
 Minister Lee Hsien Loong delivered his final major speech to Singaporeans.
-He reflected on Singapore's growth since 1965, expressed his gratitude
+He reflected on Singapore's growth since 1965, expressed his gratitude,
 and welcomed his new successor, Mr Lawrence Wong.</p>
 <hr>
 <p></p>
@@ -29,6 +29,7 @@ and welcomed his new successor, Mr Lawrence Wong.</p>
 </blockquote>
 <p>Travel back to 2004 and witness a younger Singapore as then Prime Minister
 Lee Hsien Loong delivers his first national rally speech, addressing the
-nation as the newly appointed Prime Minister.
-<br>(<em>Fun Fact - It was there where he declared a 5-day work week, from 5.5 days.)</em>
+nation as the newly appointed Prime Minister.</p>
+<p>
+<br><em>Fun Fact - It was during this speech that he declared a reduction of the work week from 5.5 days to 5 days!</em>
 </p>
