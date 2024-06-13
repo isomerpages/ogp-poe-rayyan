@@ -53,8 +53,8 @@ sections:
             beansprouts.
           linktext: Location
           url: https://maps.app.goo.gl/vC7fp3qpFqGaZe9CA
-        - title: Yishun Damn
-          description: A unique chill spot with views of both sea and a reservoir.
+        - title: Yishun Dam
+          description: A unique chill spot with views of both the sea and a reservoir.
           linktext: Location
           url: https://maps.app.goo.gl/V9WfJpAHvoj9a9vL9
   - announcements:
