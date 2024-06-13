@@ -66,7 +66,7 @@ sections:
           announcement: Inspired by countless cooking videos online, I decided to try
             cooking one of the hardest meals all chefs fear, the humble
             omelette. The heat, the technique, it was all too much for me.
-            Though not what I set out to achieve, I settled for scrambled eggs
+            Though not what I wanted to achieve, I settled for scrambled eggs
             instead. 8/10 for effort, 5/10 for taste.
           link_text: ""
           link_url: ""
