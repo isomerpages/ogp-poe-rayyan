@@ -33,7 +33,7 @@ sections:
         Singapore.
       button: Explore
       alt: ice cream
-      image: /images/Homepage images/Screenshot_2024_06_13_at_5_13_29_PM.png
+      image: /images/Homepage images/meandfood.png
       url: /whatitmeans/
   - textcards:
       title: Personal Recommendations
