@@ -9,10 +9,10 @@ notification: Welcome to my Isomer site, I  hope you enjoy your time here! :)
 sections:
   - hero:
       title: Rayyan Safari
-      subtitle: This is my cool Isomer website, I had a lot of fun making this, check
-        it out!
+      subtitle: Hi! I’m Rayyan Safari, a creative with a passion for creating unique
+        experiences!
       background: /images/Homepage images/background1.png
-      button: my Linkedin
+      button: Check out my linkedin
       url: https://www.linkedin.com/in/rayyan-safari/
       key_highlights:
         - title: Highlight B
@@ -21,9 +21,9 @@ sections:
         - title: Page A
           description: Page A IS VERY IMPORTANT!
           url: /privacy/
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: contact me
+          description: Feel free to reach out
+          url: /contactus
   - infobar:
       title: Hello there
       description: There are many things I would like to share on my site, do feel
