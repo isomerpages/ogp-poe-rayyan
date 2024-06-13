@@ -18,7 +18,7 @@ sections:
         - title: Portfolio
           description: Check out my work!
           url: https://rayyansafari.framer.website
-        - title: Page A
+        - title: Cool stuff
           description: Page A IS VERY IMPORTANT!
           url: /privacy/
         - title: contact me
