@@ -12,21 +12,21 @@ sections:
       subtitle: Hi! I’m Rayyan Safari, a creative with a passion for creating unique
         experiences!
       background: /images/Homepage images/background1.png
-      button: Check out my linkedin
+      button: my linkedin
       url: https://www.linkedin.com/in/rayyan-safari/
       key_highlights:
         - title: Portfolio
-          description: Check out my work!
+          description: Check out my work
           url: https://rayyansafari.framer.website
         - title: Cool stuff
-          description: Some things I find cool!
+          description: Some things I find cool
           url: /whatitmeans/
         - title: contact me
-          description: Feel free to reach out!
+          description: Feel free to reach out
           url: /contact-us/
   - infopic:
       title: Hello There
-      subtitle: Welcome
+      subtitle: Welcome!
       id: infopic
       description: Thank you for visiting my site! I'll be sharing some interesting
         food places as well as other things I find unique in Singapore.
