@@ -25,7 +25,7 @@ sections:
           description: Feel free to reach out!
           url: /contact-us/
   - infopic:
-      title: Hello There.
+      title: Hello There
       subtitle: Welcome
       id: infopic
       description: Thank you for visiting my site! I'll be sharing some interesting
@@ -56,7 +56,7 @@ sections:
           linktext: Location
           url: https://maps.app.goo.gl/vMiMt41sVn43a2ef8
   - announcements:
-      title: Amazing foods!
+      title: Amazing Meals
       id: announcements
       subtitle: What i've eaten recently
       announcement_items:
