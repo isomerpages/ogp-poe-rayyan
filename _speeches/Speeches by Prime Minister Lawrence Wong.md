@@ -10,7 +10,15 @@ description: ""
 </div>
 <p></p>
 <blockquote>
-<p><em>"This is my promise to all Singaporeans: I will serve you with all my heart. I will never settle for the status quo!"</em>
+<p><em><sub>"This is my promise to all Singaporeans: I will serve you with all my heart. I will never settle for the status quo!"</sub></em>
 </p>
 </blockquote>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h3><strong>Get to know Lawrence Wong</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pqgQr7Eqzlc?si=bpOs_tOWsl1pEW3n"></iframe>
+</div>
 <p></p>
