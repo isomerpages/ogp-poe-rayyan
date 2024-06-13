@@ -10,8 +10,10 @@ scheme that blends well. I then tested the contrast of the primary and
 secondary colours to ensure that it fulfils the minimum colour contrast
 of 4.5 for accessibility. I made a simple logo from the colour scheme to
 have some consistency with the site.</p>
-<p></p>
-<p>For the remaining pages that were filled with Lorem Ispsums, I decided
+<p>Other than that, I just played around with the features and see what worked
+on a page. I also added more content on some pages as I felt they looked
+a bit bare and I wanted to mimic an actual site.</p>
+<p>For the remaining pages that were filled with "Lorem Ispsums", I decided
 to copy what I found from Govtech Singapore website as it was built by
 isomer as well and had specific terms that would mock how the page would
 actually look like if it was filled with content.</p>
@@ -25,12 +27,14 @@ Senior Minister Lee Hsien Loong's career and contrast that with Prime Minister
 Lawrence Wong's past present and future.</p>
 <p>Lastly, for the cool things I've shared, I thought it was fun to make
 use of the table to showcase different websites I thought were interesting,
-and added a couple more pictures of some personal things I liked as well.</p>
+and added a couple more pictures of some personal things I liked as well,
+to give it a personal touch.</p>
 <h4><strong>3. Your thoughts on the assignment?</strong></h4>
-<p>Overall it was a really fun assignment and I enjoyed my time building
-this site. I love how the guides were very detailed and user-friendly,
-and appreciate how many of the decisions were backed with proper research.
-I hope the fun I felt translate into a pleasant site for you for viewing.</p>
+<p>Overall it was a really fun assignment! I enjoyed my time building this
+site and experimenting with all the different features IsomerCMS has. I
+love how the guides were very detailed and user-friendly, and appreciate
+how all of the decisions made were backed with proper research. I hope
+the fun I felt translate into a pleasant site for you for viewing.</p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Any more question?</summary>
