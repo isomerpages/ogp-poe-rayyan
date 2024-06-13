@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: Thank you for visiting my site! I'll be sharing some interesting
         food places and other things I find unique, around the areas near my
-        home and around Singapore.
+        home and Singapore.
       button: Explore
       alt: ice cream
       image: /images/Homepage images/Screenshot_2024_06_13_at_5_13_29_PM.png
@@ -51,11 +51,10 @@ sections:
             beansprouts.
           linktext: Location
           url: https://maps.app.goo.gl/vC7fp3qpFqGaZe9CA
-        - title: Jurong Point Mall
-          description: From Japan to Hong Kong, spend hours and explore what this mall has
-            to offer.
+        - title: Yishun Damn
+          description: A unique chill spot with views of both sea and a reservoir.
           linktext: Location
-          url: https://maps.app.goo.gl/vMiMt41sVn43a2ef8
+          url: https://maps.app.goo.gl/V9WfJpAHvoj9a9vL9
   - announcements:
       title: Amazing Meals
       id: announcements
