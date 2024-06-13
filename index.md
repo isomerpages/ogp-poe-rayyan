@@ -32,7 +32,7 @@ sections:
         food places as well as other things I find unique.
       button: explore
       alt: Image alt text
-      image: /images/Homepage images/background3.png
+      image: /images/Homepage images/mewith2icecream.png
       url: /homepage
   - textcards:
       title: Personal Recommendations
