@@ -35,19 +35,21 @@ sections:
       image: /images/Homepage images/background3.png
       url: /homepage
   - textcards:
-      title: Food Recommendations
+      title: Personal Recommendations
       subtitle: Must try!
       id: textcards
-      description: Some amazing local foods and desserts that are a must try!
+      description: Some recommendations for amazing places to eat, drink and spend time at.
       cards:
-        - title: Changi Village Cendol
-          description: Card description
+        - title: Changi Village's Cendol
+          description: Beat the heat with a treat made with shaved ice, pandan jelly and
+            gula melaka.
           linktext: Location
-          url: ""
-        - title: Card
-          description: Card description
+          url: https://maps.app.goo.gl/2WKK4oBo2DrGd3Gj8
+        - title: Bedok Corner's Fried Kway Teow
+          description: A hearty meal made with wok-fried noodles mixed with seafood and
+            beansprouts.
           linktext: Location
-          url: ""
+          url: https://maps.app.goo.gl/vC7fp3qpFqGaZe9CA
         - title: Card
           description: Card description
           linktext: Location
@@ -62,7 +64,7 @@ sections:
           announcement: KFC IS NICe
           link_text: ""
           link_url: ""
-        - title: Soup for the soul
+        - title: Broth for the soul
           date: 10 June 2024
           announcement: Announcement content
           link_text: ""
