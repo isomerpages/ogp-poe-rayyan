@@ -29,8 +29,8 @@ sections:
       subtitle: Welcome!
       id: infopic
       description: Thank you for visiting my site! I'll be sharing some interesting
-        places and other things I find unique, around the areas near my home and
-        Singapore.
+        places and other things I find unique – around the areas near my home
+        and Singapore.
       button: Explore
       alt: ice cream
       image: /images/Homepage images/meandfood.png
