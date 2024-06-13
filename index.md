@@ -39,17 +39,17 @@ sections:
       id: textcards
       description: Some amazing local foods and desserts that are a must try.
       cards:
-        - title: Card
+        - title: Changi Village Cendol
           description: Card description
-          linktext: Learn more
+          linktext: Location
           url: ""
         - title: Card
           description: Card description
-          linktext: Learn more
+          linktext: Location
           url: ""
         - title: Card
           description: Card description
-          linktext: Learn more
+          linktext: Location
           url: ""
   - announcements:
       title: Amazing foods!
