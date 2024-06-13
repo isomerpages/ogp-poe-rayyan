@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4>Here are some things that I find cool and interesting.</h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="a man with an egg" src="/images/Cool things/Screenshot_2024_06_11_at_11_44_20_AM.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDlkdGszd3htbHpsbWY5N2tmcGUxYzNtaDkxNmZhamFxdW5pMmpzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iMyjHNMOoivehalVCJ/giphy.gif">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
