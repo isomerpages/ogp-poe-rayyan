@@ -47,7 +47,7 @@ toilet paper.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A game I made with basic HTML and JavaScript for a school Module.</p>
+<p>A game I made with basic HTML and JavaScript for a school module.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://tangerine-pony-cd7e0b.netlify.app" rel="noopener noreferrer nofollow" target="_blank">https://tangerine-pony-cd7e0b.netlify.app</a>
