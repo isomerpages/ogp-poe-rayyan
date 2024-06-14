@@ -2,5 +2,5 @@ collections:
   speeches:
     output: true
     order:
-      - Speeches by Prime Minister Lawrence Wong.md
       - Speeches by Senior Minister Lee Hsien Loong.md
+      - Speeches by Prime Minister Lawrence Wong.md
