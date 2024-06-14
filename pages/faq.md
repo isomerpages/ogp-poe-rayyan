@@ -4,7 +4,7 @@ permalink: /faq/
 variant: tiptap
 ---
 <h1><strong>FAQ</strong></h1>
-<h4><strong>1. What were the design choices and thought processes you have made with the site?</strong></h4>
+<h4><strong>1. What were the design choices and thought processes you made with the site?</strong></h4>
 <p>I used a website called <a href="http://coolor.co" rel="noopener noreferrer nofollow" target="_blank">coolor.co</a> to find inspiration for a nice colour
 scheme that blends well. I then tested the contrast of the primary and
 secondary colours to ensure that it fulfils the minimum colour contrast
@@ -15,10 +15,10 @@ my own.</p>
 on a page. I also added more content on some pages as I felt they looked
 a bit bare, and I wanted to mimic the experience of an actual site.</p>
 <p>For the remaining pages filled with "Lorem Ispsums", I decided to copy
-the content found on Govtech Singapore website, as it was built by isomer
+the content found on Govtech Singapore website, as it was built by Isomer
 as well and had specific terms that would mock how the page would actually
 look like if it was filled with content.</p>
-<h4><strong>2. Why was the content shared chosen?</strong></h4>
+<h4><strong>2. Why was the shared content chosen?</strong></h4>
 <p>The content shared comes from my personal experiences and actual places
 I've been to. It was actually quite a challenge to come up with recommendations,
 as I'm not a picky eater and enjoy most of the food I've eaten.</p>
