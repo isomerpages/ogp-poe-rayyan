@@ -11,3 +11,5 @@ description: ""
 <p><strong>Bold text </strong>and different o<em>ther styles</em>
 </p>
 <p></p>
+
+**This text will be bold too**
