@@ -32,4 +32,5 @@ Lee Hsien Loong delivers his first national rally speech, addressing the
 nation as the newly appointed Prime Minister.</p>
 <p>
 <br><em>Fun Fact - It was during this speech that he declared a reduction of the work week from 5.5 days to 5 days!</em>
+	<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSSkJ1P-yL0fF3tedhbJLoreFVG5mIpYiis_fD9nDpmE8qk0HbyU8MSEwwB_Yr-g/pubembed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </p>
